@@ -216,5 +216,3 @@ while True:
             students.sort()
             print(f"Ученик {uchenik7} успешно добавлен, список учеников: ", students)
             break
-
-
